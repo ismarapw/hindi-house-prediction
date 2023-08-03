@@ -7,7 +7,7 @@ Welcome to real estate prediction project! This project aims to build a model th
 3. Regression Models (I used Linear Regression, Decision Tree Regressor and Lasso Algorithm).
 4. Grid Search CV (Cross Validation)
 5. Model Evaluation and Inference
-6. Web Application (You can check [This Repo](https://github.com/ismarapw/heart-disease-platform) to see the implementation)
+6. Web Application (You can check [This Repo](https://github.com/ismarapw/real-estate-web) to see the implementation)
 
 # Installation and Usage
 At the beginning, you can clone this repository and you have to make sure that your machine has been installed with Python (3.11.4) and PIP (23.2.1). It is recommended for using virtual environment (venv). Inside the project you can do
